@@ -1,4 +1,4 @@
 # firstrepositary
-This is my firsr git repository
+This is my first git repository
 <br>
 Author--Karun Saini
